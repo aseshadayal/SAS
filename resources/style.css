@@ -52,3 +52,19 @@ html{
 .featurecontent h4{
   font-size: 1rem;
 }
+
+.container {
+  margin: 0 auto;
+  max-width: 960px;
+}
+
+nav ul {
+  padding: 0.75rem 0;
+  background-color: firebrick;
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  }
+nav a{
+  color: white;
+}
